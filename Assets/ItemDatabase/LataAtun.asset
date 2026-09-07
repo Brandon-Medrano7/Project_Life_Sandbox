@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68965fb8c62994bdf8d7b1027da17557, type: 3}
   m_Name: LataAtun
   m_EditorClassIdentifier: Assembly-CSharp::ItemData
-  itemName: 
-  itemDescription: 
+  itemName: "Lata de At\xFAn"
+  itemDescription: "Comida enlatada b\xE1sica. Reduce el hambre."
   type: 0
   itemIcon: {fileID: 0}
   weight: 1
